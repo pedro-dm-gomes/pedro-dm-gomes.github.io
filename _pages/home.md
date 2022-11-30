@@ -5,7 +5,7 @@ sitemap: false
 permalink: /
 ---
 
-### Everthing is Graphs!
+### Everthing is a Graphs
 
 
 

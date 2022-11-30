@@ -67,7 +67,7 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4>Cavitation as a gateway to better therapies</h4>
+ <h4>Point Cloud Prediction of Future Movements</h4>
 Cavitating bubbles can ablate cancer cells, fragment tissues, and deliver drugs, among other functions.
 I create high-fidelity computational methods to simulate these dynamics.
 Examples are:
@@ -93,7 +93,7 @@ This has impacted application-specific treatments, including:
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
-<h4>Learning from animals: Humpback whales</h4>
+<h4>Grap</h4>
 Perspective on bubble utilization can come from a surprising source: **animals**.
 <a href="https://www.youtube.com/watch?v=Q8iDcLTD9wQ" target="_blank">Humpback whales hunt</a> using bubbly regions (called bubble nets) and loud vocalizations.
 Specifically, they
