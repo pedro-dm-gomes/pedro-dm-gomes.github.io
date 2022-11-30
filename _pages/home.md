@@ -21,4 +21,4 @@ Bryngelson & Freund, <i>Phys. Rev. Fluids</i> (2018)
 <br/>
 
 ### About me
-I am Phd Student
+I am Phd Student working on Graph neural netowrks for point cloud prediction 
