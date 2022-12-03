@@ -108,16 +108,3 @@ cloud) with the specific twist of graph learning for new modalities of represent
 </div>
 {% endif %}
 
-
-
-
-
-
-<div class="jumbotron">
-  <h4>Sponsors</h4>
-  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
- {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/logopic/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
-  </div>
-</div>
-
-
