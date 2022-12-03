@@ -1,7 +1,7 @@
 # Site settings
-title: Dr. Spencer Bryngelson
-email: spencer@caltech.edu
-description: Academic webpage of Dr. Spencer H. Bryngelson
+title: Pedro Gomes 
+email: pedro.gomes19@ucl.ac.uk
+description: Professional webpage of Pedro Gomes
 baseurl: ""
 url: ""
 
@@ -13,20 +13,17 @@ google_tag_manager: GTM-TZ9Z7HZ
 
 # Footer info
 affiliation: >
-    Dr. Spencer Bryngelson<br/>
-    Senior Postdoctoral Scholar<br/>
-    <a href="http://www.eas.caltech.edu/" target="_blank">Engineering and Applied Science</a><br/>
-    California Institute of Technology
+    Pedro Gomes<br/>
+    PhD student lar<br/>
+    University College of London
 
 location: >
-  <a href="http://www.mce.caltech.edu/about/gates_thomas" target="_blank">Gates-Thomas Laboratory</a><br/>
-  California Institute of Technology <br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125, MC104-44
+  University College of London<br/>
+  London, United Kingdom
 
 contact: >
-    <a href="mailto:spencer@caltech.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Spencer via email</a> <br/>
-    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+    <a href="mailto:pedro.gomes19@ucl.ac.uk" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Pedro via email</a> <br/>
+   
 
 # Pages shown in navbar
 nav_pages:
@@ -66,8 +63,8 @@ plugins: ['jekyll/scholar']
 
 scholar:
 
-  last_name: Bryngelson
-  first_name: [Spencer H.]
+  last_name: Gomes
+  first_name: [Pedro M.]
 
   style: shb
   locale: en
