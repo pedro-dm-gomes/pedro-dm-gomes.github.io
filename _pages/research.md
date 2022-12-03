@@ -68,14 +68,17 @@ iframe {
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
  <h4>Point Cloud Prediction of Future Movements</h4>
-*We introduce a Graph Neural Network, that given a point cloud sequence can make accurate prediction of future frames.*
+We introduce a Graph Neural Network, that given a point cloud sequence can make accurate prediction of future frames.
 
-Point clouds do not have regular structure or explicit point to point correspondence across frames, this makes model dynamic point clouds a very challenging task.
 
-To address this challenge we propose a Graph Neural Network that can process irregular point clouds sequences using graph structure. We design a Graph-RNN cell that can leverage learned features, describing the local topology, to form spatio-temporal graphs, from where temporal correlations can be extracted.
+
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
   <iframe src="https://player.vimeo.com/video/455888052?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="182px" frameborder="0" allow="autoplay"></iframe>
 </div>
 </div>
+Point clouds do not have regular structure or explicit point to point correspondence across frames, this makes model dynamic point clouds a very challenging task.
+
+To address this challenge we propose a Graph Neural Network that can process irregular point clouds sequences using graph structure. We design a Graph-RNN cell that can leverage learned features, describing the local topology, to form spatio-temporal graphs, from where temporal correlations can be extracted.
+
 </div>
