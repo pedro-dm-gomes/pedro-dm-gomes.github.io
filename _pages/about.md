@@ -65,15 +65,13 @@ permalink: /about/
 {% if site.data.grants %}
 <div class="jumbotron">
 ### Grants
-During my master’s I received a research grant from the project FlexLiF from the Portuguese Institute of
-Telecommunications. This grant was focused on the development of efficient scalable light field image coding
-methods, with random access functionalities and compatible with existing or under development standard
-image and video encoders.
-<br>
- My current grant is focused developed new tools for volumetric content (point
-cloud) with the specific twist of graph learning for new modalities of representations and processin
+<ul>
+{% for grant in site.data.grants %}
+ <li> {{ grant.name }} </li>
+{% endfor %}
+</ul>
+</div>
 {% endif %}
-
 
 {% if site.data.awards %}
 <div class="jumbotron">
@@ -81,6 +79,18 @@ cloud) with the specific twist of graph learning for new modalities of represent
 <ul>
 {% for award in site.data.awards %}
  <li> {{ award.name | replace: "-","&#8211;"}} </li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
+
+
+{% if site.data.people %}
+<div class="jumbotron">
+### Students and mentoring
+<ul>
+{% for student in site.data.people %}
+ <li> {{ student.name }}, {{student.location}} ({{student.degree}}, {{student.year}}) </li>
 {% endfor %}
 </ul>
 </div>
@@ -98,3 +108,10 @@ cloud) with the specific twist of graph learning for new modalities of represent
 </div>
 {% endif %}
 
+
+<div class="jumbotron">
+  <h4>Sponsors</h4>
+  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
+ {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/logopic/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
+  </div>
+</div>
