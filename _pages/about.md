@@ -85,12 +85,12 @@ permalink: /about/
 {% endif %}
 
 
-{% if site.data.people %}
+{% if site.data.committes %}
 <div class="jumbotron">
-### Students and mentoring
+### Committes
 <ul>
-{% for student in site.data.people %}
- <li> {{ student.name }}, {{student.location}} ({{student.degree}}, {{student.year}}) </li>
+{% for committe in site.data.committes %}
+ <li> {{ committe.name | replace: "-","&#8211;"}} </li>
 {% endfor %}
 </ul>
 </div>
@@ -109,9 +109,17 @@ permalink: /about/
 {% endif %}
 
 
+
+{% if site.data.people %}
 <div class="jumbotron">
-  <h4>Sponsors</h4>
-  <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
- {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/logopic/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
-  </div>
+### Students and mentoring
+<ul>
+{% for student in site.data.people %}
+ <li> {{ student.name }}, {{student.location}} ({{student.degree}}, {{student.year}}) </li>
+{% endfor %}
+</ul>
 </div>
+{% endif %}
+
+
+
