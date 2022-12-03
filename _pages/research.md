@@ -63,3 +63,41 @@ iframe {
   <!-- float: none; -->
 
 ## Research
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
+ <h4>Point Cloud Prediction of Future Movements</h4>
+We introduce a Graph Neural Network, that given a point cloud sequence can make accurate prediction of future frames.
+
+Point clouds do not have regular structure or explicit point to point correspondence across frames, this makes model dynamic point clouds a very challenging task.
+
+To address this challenge we propose a Graph Neural Network that can process irregular point clouds sequences using graph structure. We design a Graph-RNN cell that can leverage learned features, describing the local topology, to form spatio-temporal graphs, from where temporal correlations can be extracted.
+
+</div>
+<div class="col-md-3 col-sm-12" style="background-color:transparent;">
+  <iframe src="https://player.vimeo.com/video/455888052?autoplay=1&loop=1&autopause=0&muted=1&quality=240p&background=1" height="182px" frameborder="0" allow="autoplay"></iframe>
+</div>
+
+</div>
+</div>
+
+
+
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
+ <h4> Graph neural netowrks explanability</h4>
+
+We explain hierarchical features in the context of dynamic PC processing. 
+Specifically, we have shown:
+* 1) the interpretation of low- and high-level features as local and global motions;
+* 2) the importance of different components of the networks in current state-of-the-art models to achieve a better point cloud predictions. 
+
+We believe that such insights can open the door to new designs of more efficient and accurate networks for future point cloud processing tasks such as learning-based PC compression algorithms.
+
+</div>
+</div>
+</div>
+</div>
