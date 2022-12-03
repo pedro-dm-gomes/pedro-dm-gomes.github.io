@@ -29,6 +29,3 @@ My research interests lie in the emerging field of graph signal processing for v
 In February of 2020, I joined the LASP group at UCL as a PhD student within the project of machine learning algorithms for immersive communication.
 
 
-
-<br/>
-
