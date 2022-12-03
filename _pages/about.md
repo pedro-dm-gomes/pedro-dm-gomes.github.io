@@ -72,6 +72,8 @@ image and video encoders.
 <br>
  My current grant is focused developed new tools for volumetric content (point
 cloud) with the specific twist of graph learning for new modalities of representations and processin
+{% endif %}
+
 
 {% if site.data.awards %}
 <div class="jumbotron">
