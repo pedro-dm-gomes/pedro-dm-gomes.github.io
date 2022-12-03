@@ -65,13 +65,13 @@ permalink: /about/
 {% if site.data.grants %}
 <div class="jumbotron">
 ### Grants
-<ul>
-{% for grant in site.data.grants %}
- <li> {{ grant.name }} </li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
+During my master’s I received a research grant from the project FlexLiF from the Portuguese Institute of
+Telecommunications. This grant was focused on the development of efficient scalable light field image coding
+methods, with random access functionalities and compatible with existing or under development standard
+image and video encoders.
+<br>
+ My current grant is focused developed new tools for volumetric content (point
+cloud) with the specific twist of graph learning for new modalities of representations and processin
 
 {% if site.data.awards %}
 <div class="jumbotron">
