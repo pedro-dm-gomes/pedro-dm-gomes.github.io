@@ -85,18 +85,6 @@ cloud) with the specific twist of graph learning for new modalities of represent
 {% endif %}
 
 
-{% if site.data.committes %}
-<div class="jumbotron">
-### Committes
-<ul>
-{% for committe in site.data.committes %}
- <li> {{ committe.name | replace: "-","&#8211;"}} </li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
-
-
 {% if site.data.collaborators %}
 <div class="jumbotron">
 ### Collaborators
