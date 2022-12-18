@@ -5,11 +5,21 @@ sitemap: false
 permalink: /
 ---
 
-### Everthing is a Graph
+## Everthing is a Graph!
 
+<div class="container">
+<div class="row">
+<center>
+<img src="nnsa_logo.jpg" alt="Girl in a jacket">
+Transition to chaos of flowing red blood cells. <br/>
+Bryngelson & Freund, <i>Phys. Rev. Fluids</i> (2018)
+</center>
+</div>
+</div>
+<br/>
 
+I am current a PhD student, researching on Graph Neural Netowrks for modelling dynamic systems.
 
-I am current a PhD student, researching on Graph Neural Netowrks for modelling dynamic point clouds.
 
 
 ### About me
