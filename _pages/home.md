@@ -10,7 +10,7 @@ permalink: /
 <div class="container">
 <div class="row">
 <center>
-<img src="nnsa_logo.jpg" alt="Girl in a jacket">
+<img src="home_img.png" alt="Graphs">
 Transition to chaos of flowing red blood cells. <br/>
 Bryngelson & Freund, <i>Phys. Rev. Fluids</i> (2018)
 </center>
