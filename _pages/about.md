@@ -110,16 +110,5 @@ permalink: /about/
 
 
 
-{% if site.data.people %}
-<div class="jumbotron">
-### Students and mentoring
-<ul>
-{% for student in site.data.people %}
- <li> {{ student.name }}, {{student.location}} ({{student.degree}}, {{student.year}}) </li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
-
 
 
