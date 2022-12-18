@@ -10,9 +10,7 @@ permalink: /
 <div class="container">
 <div class="row">
 <center>
-<img src="home_img.png" alt="Graphs">
-Transition to chaos of flowing red blood cells. <br/>
-Bryngelson & Freund, <i>Phys. Rev. Fluids</i> (2018)
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/home_img.png" width="175px"/>
 </center>
 </div>
 </div>
