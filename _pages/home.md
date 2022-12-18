@@ -10,7 +10,7 @@ permalink: /
 <div class="container">
 <div class="row">
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/home_img.png" width="175px"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/home_img.png" width="60px"/>
 </center>
 </div>
 </div>
