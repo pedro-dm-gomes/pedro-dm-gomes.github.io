@@ -81,7 +81,7 @@ The features are then processed by a novel attention model to predict future mov
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4>Graph neural netowrks explanability</h4>
+ <h4>Graph neural networks explanability</h4>
 
 We explain hierarchical features in the context of dynamic point cloud processing. 
 We developed a sequence to visualize learned features as motion vectors, and as a result, show what the network learns at each layer.
