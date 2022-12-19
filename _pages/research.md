@@ -73,7 +73,7 @@ We introduce a Graph Neural Network, that given a point cloud sequence can make 
 We propose a Graph Neural Network that can process irregular point cloud sequences using a graph structure. To this end, we design a Graph-RNN cell that can leverage learned features, describing the local topology, to form spatio-temporal graphs, from where temporal correlations can be extracted as motion features.
 The features are then processed by a novel attention model to predict future movements. The attention mechanism allows the network to dynamically model the composition of local and global motions.
 
-
+</div>
 </div>
 </div>
 
@@ -93,7 +93,7 @@ Specifically, using this technique we have shown:
 </div>
 </div>
 </div>
-</div>
+
 
 
 
@@ -104,7 +104,6 @@ Specifically, using this technique we have shown:
 
 This project was focused on the development of efficient scalable light field image coding methods, with random access functionalities and compatible with existing or under development standard image and video (HEVC) encoders
 
-</div>
 </div>
 </div>
 </div>
