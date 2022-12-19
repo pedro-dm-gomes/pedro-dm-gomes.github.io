@@ -5,7 +5,7 @@ sitemap: false
 permalink: /
 ---
 
-## Everthing is a Graph!
+## Everthing is a Graph
 
 <div class="container">
 <div class="row">
