@@ -16,7 +16,7 @@ permalink: /
 </div>
 <br/>
 
-I am current a PhD student, researching on Graph Neural Netwokrs for modelling dynamic systems (that can be everthing).
+I am current a PhD student, researching on Graph Neural Netwokrs for modelling dynamic systems.
 
 
 
