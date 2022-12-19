@@ -70,9 +70,8 @@ iframe {
  <h4>Point Cloud Prediction of Future Movements</h4>
 We introduce a Graph Neural Network, that given a point cloud sequence can make accurate prediction of future frames.
 
-Point clouds do not have regular structure or explicit point to point correspondence across frames, this makes model dynamic point clouds a very challenging task.
-
-To address this challenge we propose a Graph Neural Network that can process irregular point clouds sequences using graph structure. We design a Graph-RNN cell that can leverage learned features, describing the local topology, to form spatio-temporal graphs, from where temporal correlations can be extracted.
+We propose a Graph Neural Network that can process irregular point cloud sequences using a graph structure. To this end, we design a Graph-RNN cell that can leverage learned features, describing the local topology, to form spatio-temporal graphs, from where temporal correlations can be extracted as motion features.
+The features are then processed by a novel attention model to predict future movements. The attention mechanism allows the network to dynamically model the composition of local and global motions.
 
 
 </div>
@@ -82,14 +81,28 @@ To address this challenge we propose a Graph Neural Network that can process irr
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4> Graph neural netowrks explanability</h4>
+ <h4>Graph neural netowrks explanability</h4>
 
-We explain hierarchical features in the context of dynamic PC processing. 
-Specifically, we have shown:
+We explain hierarchical features in the context of dynamic point cloud processing. 
+We developed a sequence to visualize learned features as motion vectors, and as a result, show what the network learns at each layer.
+
+Specifically, using this technique we have shown: 
 * 1) the interpretation of low- and high-level features as local and global motions;
-* 2) the importance of different components of the networks in current state-of-the-art models to achieve a better point cloud predictions. 
+* 2) the importance of different components (Stacking layer, and Multi-resolution layers) of the networks in current state-of-the-art models to achieve a better point cloud predictions. 
 
-We believe that such insights can open the door to new designs of more efficient and accurate networks for future point cloud processing tasks such as learning-based PC compression algorithms.
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
+ <h4> Light Field image compression </h4>
+
+This project was focused on the development of efficient scalable light field image coding methods, with random access functionalities and compatible with existing or under development standard image and video (HEVC) encoders
 
 </div>
 </div>
