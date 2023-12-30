@@ -16,16 +16,17 @@ permalink: /
 </div>
 <br/>
 
-I am currently a PhD student, researching on Graph Neural Networks for modelling dynamic systems. 
+
+I am a final-year PhD student at UCL. 
+Everthing is a graph, and my research is goal is using Graph Neural Networks to model it.
 
 
 
+###  My Trajectry
+I earned my BSc and MSc in Electrical Engineering at the University of Coimbra (Portugal) and Politecnico di Torino (Italy).
 
-### About me
-Prior to joining UCL, I earned my BSc and MSc degrees in Electrical Engineering at the University of Coimbra (Portugal).
-
-My research interests lie in the emerging field of graph signal processing for volumetric content with the specific twist of graph learning for new modalities representations and processing.
-
-In February of 2020, I joined the LASP group at UCL as a PhD student within the project of machine learning algorithms for immersive communication.
+In February 2020, I joined the LASP group at UCL as a PhD student.
+During my PhD, I worked on developing graph-based machine learning approaches to model irregular data, such as point clouds or radar data.
 
 
+In the Summer of 2023, I interned at Nomura Bank  (Instinet), where I researched graph-based solutions for circuit design. 
