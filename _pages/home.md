@@ -18,6 +18,7 @@ permalink: /
 
 
 I am a final-year PhD student at UCL. 
+
 Everthing is a graph, and my research is goal is using Graph Neural Networks to model it.
 
 
