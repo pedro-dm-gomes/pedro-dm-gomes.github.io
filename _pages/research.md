@@ -67,6 +67,18 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
+ <h4>Graph neural Networks Explanability</h4>
+
+We explain hierarchical features in the context of dynamic point cloud processing. 
+We developed a sequence to visualize learned features as motion vectors, and as a result, show what the network learns at each layer.
+
+</div>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
  <h4>Point Cloud Prediction of Future Movements</h4>
 We introduce a Graph Neural Network, that given a point cloud sequence can make accurate prediction of future frames.
 
@@ -81,18 +93,16 @@ The features are then processed by a novel attention model to predict future mov
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4>Graph neural Networks Explanability</h4>
+ <h4>Millimeter wave Radar Processing via GNNs</h4>
 
 We explain hierarchical features in the context of dynamic point cloud processing. 
 We developed a sequence to visualize learned features as motion vectors, and as a result, show what the network learns at each layer.
 
-Specifically, using this technique we have shown: 
-* 1) the interpretation of low- and high-level features as local and global motions;
-* 2) the importance of different components (Stacking layer, and Multi-resolution layers) of the networks in current state-of-the-art models to achieve a better point cloud predictions. 
+</div>
+</div>
+</div>
 
-</div>
-</div>
-</div>
+
 
 
 
