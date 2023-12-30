@@ -22,7 +22,7 @@ Everthing is a graph, and my research is goal is using Graph Neural Networks to 
 
 
 
-###  My Trajectry
+###  About me
 I earned my BSc and MSc in Electrical Engineering at the University of Coimbra (Portugal) and Politecnico di Torino (Italy).
 
 In February 2020, I joined the LASP group at UCL as a PhD student.
