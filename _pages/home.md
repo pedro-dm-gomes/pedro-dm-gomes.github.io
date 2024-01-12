@@ -1,11 +1,4 @@
----
-title: "Home"
-layout: homelay
-sitemap: false
-permalink: /
----
-
-### Everthing is a Graph
+### Everything is a Graph
 
 <div class="container">
 <div class="row">
@@ -19,7 +12,7 @@ permalink: /
 
 I am a final-year PhD student at UCL. 
 
-Everthing is a graph, and my research is goal is using Graph Neural Networks to model it.
+Everything is a graph; my research goal is to use Graph Neural Networks to model it.
 
 
 
