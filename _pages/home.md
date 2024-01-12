@@ -1,3 +1,11 @@
+---
+title: "Home"
+layout: homelay
+sitemap: false
+permalink: /
+---
+
+
 ### Everything is a Graph
 
 <div class="container">
