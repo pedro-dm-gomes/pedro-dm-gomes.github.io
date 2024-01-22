@@ -84,7 +84,8 @@ The features are then processed by a novel attention model to predict future mov
 <div class="col-md-9 col-sm-12">
  <h4>'Opening the Black-Box' - GNNs Explanability</h4>
 
-We developed a technique for feature disentanglement  and feature visualization.
+<p> We developed a technique for feature disentanglement  and feature visualization.
+</p>
 
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/GNN_box2.png" width="125%"/>
@@ -92,10 +93,10 @@ We developed a technique for feature disentanglement  and feature visualization.
 </center>
 
 Using this technique, we explained hierarchical features in the context of dynamic point cloud processing. We have shown 
-1) The interpretation of low- and high-level features as local and global motions; 
-2) The importance of different network components (#nr of layer, parallelism) in current state-of-the-art point cloud processing models
-
-
+      <ul>
+        <li>The interpretation of low- and high-level features as local and global motions;</li>
+        <li>The importance of different network components (#nr of layer, parallelism) in current state-of-the-art point cloud processing models.</li>
+      </ul>
 
 </div>
 </div>
