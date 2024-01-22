@@ -85,13 +85,14 @@ The features are then processed by a novel attention model to predict future mov
  <h4>'Opening the black-box GNNs Explanability'</h4>
 
 
+
+I developed a technique for feature disentanglement to visualize what is learned at each layer of a graph neural network and understand the impact of each input dimension on the learned embeddings.
+
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/GNN_explainableinty.png" width="500x"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/GNN_explainableinty.png" width="1000x"/>
 </center>
 
-
-
-We  explained hierarchical features in the context of dynamic point cloud processing. 
+Using this tequnique we explained hierarchical features in the context of dynamic point cloud processing. 
 To this end, we performed an experimental study on state-of-art archtectures
 we have shown 
 1) the interpretation of low- and high-level features as local and global motions; 
