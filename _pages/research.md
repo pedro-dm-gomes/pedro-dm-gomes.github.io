@@ -69,8 +69,9 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4>Point Cloud Prediction of Future Movements</h4>
-We introduce a Graph Neural Network, that given a point cloud sequence can make accurate prediction of future frames.
+ <h4>Point Cloud Motion Forecasting via Graph‑based Machine Learning</h4>
+We propoaw a Graph Neural Network, that given a point cloud sequence can make accurate prediction of future frames.
+
 We propose a learning approach that can process irregular point cloud sequences using a graph structure. To this end, we design a Graph-RNN cell that can leverage learned features, describing the local topology, to form spatio-temporal graphs, from where temporal correlations can be extracted as motion features.
 The features are then processed by a novel attention model to predict future movements. The attention mechanism allows the network to dynamically model the composition of local and global motions.
 
@@ -81,7 +82,14 @@ The features are then processed by a novel attention model to predict future mov
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
- <h4>Opening the black-box GNNs Explanability</h4>
+ <h4>'Opening the black-box GNNs Explanability'</h4>
+
+
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/GNN_explainableinty.png" width="450x"/>
+</center>
+
+
 
 We  explained hierarchical features in the context of dynamic point cloud processing. 
 To this end, we performed an experimental study on state-of-art archtectures
