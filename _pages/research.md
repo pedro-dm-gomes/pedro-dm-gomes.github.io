@@ -87,7 +87,7 @@ The features are then processed by a novel attention model to predict future mov
 We developed a technique for feature disentanglement  and feature visualization.
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/GNN_explainableinty.png" width="125%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/GNN_box2.png" width="125%"/>
 
 </center>
 
