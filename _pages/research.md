@@ -86,7 +86,7 @@ The features are then processed by a novel attention model to predict future mov
 
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/GNN_explainableinty.png" width="450x"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/GNN_explainableinty.png" width="500x"/>
 </center>
 
 
