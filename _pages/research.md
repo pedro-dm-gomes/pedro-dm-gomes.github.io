@@ -92,11 +92,14 @@ The features are then processed by a novel attention model to predict future mov
 
 </center>
 
-Using this technique, we explained hierarchical features in the context of dynamic point cloud processing. We have shown 
-      <ul>
-        <li>The interpretation of low- and high-level features as local and global motions;</li>
-        <li>The importance of different network components (#nr of layer, parallelism) in current state-of-the-art point cloud processing models.</li>
-      </ul>
+<p> Using this technique, we explained hierarchical features in the context of dynamic point cloud processing. We have shown 
+</p>
+
+
+<ul>
+  <li>The interpretation of low- and high-level features as local and global motions;</li>
+  <li>The importance of different network components (#nr of layer, parallelism) in current state-of-the-art point cloud processing models.</li>
+</ul>
 
 </div>
 </div>
