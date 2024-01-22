@@ -89,13 +89,12 @@ The features are then processed by a novel attention model to predict future mov
 I developed a technique for feature disentanglement to visualize what is learned at each layer of a graph neural network and understand the impact of each input dimension on the learned embeddings.
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/GNN_explainableinty.png" width="800x"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/GNN_explainableinty.png" width="100%"/>
 </center>
 
 Using this technique, we explained hierarchical features in the context of dynamic point cloud processing. We have shown 
 1) The interpretation of low- and high-level features as local and global motions; 
 2) The importance of different network components in current state-of-the-art models to achieve better PC predictions. 
-
 
 
 
