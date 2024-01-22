@@ -92,12 +92,9 @@ I developed a technique for feature disentanglement to visualize what is learned
 <img src="{{ site.url }}{{ site.baseurl }}/images/GNN_explainableinty.png" width="1000x"/>
 </center>
 
-Using this tequnique we explained hierarchical features in the context of dynamic point cloud processing. 
-To this end, we performed an experimental study on state-of-art archtectures
-we have shown 
-1) the interpretation of low- and high-level features as local and global motions; 
-2) the importance of different components of the networks in current state-of-the-art
-models to achieve a better PC predictions. 
+Using this technique, we explained hierarchical features in the context of dynamic point cloud processing. We have shown 
+1) The interpretation of low- and high-level features as local and global motions; 
+2) The importance of different network components in current state-of-the-art models to achieve better PC predictions. 
 
 
 
