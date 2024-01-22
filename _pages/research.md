@@ -88,7 +88,8 @@ The features are then processed by a novel attention model to predict future mov
 </p>
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/GNN_box2.png" width="150%"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/GNN_box2.png" width="100%"/>
+
 </center>
 
 Using this technique, we explained hierarchical features in the context of dynamic point cloud processing. We have shown 
