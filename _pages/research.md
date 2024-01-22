@@ -118,6 +118,14 @@ i)~the limits of point-based approaches on capturing 3D geometries available in 
 ii)~the importance of key features such as velocity in  the dataset for the denoising task, 
 iii)~the limitation of existing classification approaches in dat
 
+
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+
+
 </div>
 </div>
 </div>
