@@ -131,9 +131,9 @@ iii)~the limitation of existing classification approaches in dat
 
 <p> Our contributions are the following <\p>
 <ul>
-  <li>Frist Dataset of Indoor point clouds aquired by Millimeter-wave Randar</li> 
-  <li>Item 2</li>
-  <li>Item 3</li>
+  <li>The frist dataset of indoor point clouds aquired by Millimeter-wave Radar in literature</li> 
+  <li>Implementation of SotA aproaches for this dataset and their limitations</li>
+  <li>A novel graph-based architecture desinged ot adress the specific challegnes of mmilimeter-wave data </li>
 </ul>
 
 
