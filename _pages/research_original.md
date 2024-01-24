@@ -163,7 +163,10 @@ Due to their large size, Light Field images require efficient compression algori
 </center>
 
 <p>
-We proposed an efficient, scalable light field image coding method. Our methods create a 'pseudo-video' sequence from the image using a novel *Quadratic Scan Order* of our design. The video is then encoded using (HEVC) encoders. Besides superior compression results, our methods has improved random access functionalities.
+We proposed an efficient, scalable light field image coding method. 
+</p>
+<p>
+Our methods create a 'pseudo-video' sequence from the image using a novel *Quadratic Scan Order* of our design. The video is then encoded using (HEVC) encoders. Besides superior compression results, our methods has improved random access functionalities.
 </p>
 </div>
 </div>
