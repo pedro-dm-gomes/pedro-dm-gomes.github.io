@@ -70,16 +70,28 @@ iframe {
 <div class="row align-items-end">
 <div class="col-md-9 col-sm-12">
  <h4>Point Cloud Motion Forecasting via Graph‑based Machine Learning</h4>
-We propoaw a Graph Neural Network, that given a point cloud sequence can make accurate prediction of future frames.
+
+We propose a graph-based neural network architecture that, given a point cloud sequence, can make accurate predictions of future frames.
+
+
 
 <center>
 <img src="{{ site.url }}{{ site.baseurl }}/images/graph_wibeseite.png" width="100%"/>
 </center>
 
+ <p> We develop the following contributions: </p>
 
 
-We propose a learning approach that can process irregular point cloud sequences using a graph structure. To this end, we design a Graph-RNN cell that can leverage learned features, describing the local topology, to form spatio-temporal graphs, from where temporal correlations can be extracted as motion features.
-The features are then processed by a novel attention model to predict future movements. The attention mechanism allows the network to dynamically model the composition of local and global motions.
+<ul>
+  <li>A graph-based module that exploits the point cloud geometric structure to form spatio-
+temporal neighbourhoods from where the meaningful dynamic features can be extracted.
+The structural information is further included in the learned dynamic features, reducing the
+deformation of the predicted point cloud shape;</li>
+  <li>  A novel module that combines hierarchical features in an adaptative manner according to the scene context. The proposed module dynamically controls the composition of local and
+global motions for each point, allowing the network to predict complex motions with higher
+accuracy and flexibility .</li>
+</ul>
+
 
 </div>
 </div>
