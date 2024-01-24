@@ -19,12 +19,12 @@ permalink: /
 <br/>
 
 <p>
-I'm a final-year PhD student at UCL. I believe everything from social networks to 3D multimedia can be seen as a graph. My research is to devleopd tools to extract useful information from data representations. 
+I'm a final-year PhD student at UCL. Almost all data structures in the real world, from social networks to 3D multimedia, can be seen as graphs. My research is focused on the development of tools to extract useful information from data representations. 
 </p>
 
 
 ###  About me
-I earned my BSc in Electrical Engineering, and MSc in Computer Science at the University of Coimbra (Portugal) and Politecnico di Torino (Italy).
+I was born in Portugal. I earned my BSc in Electrical Engineering and MSc in Computer Science at the University of Coimbra (Portugal) and Politecnico di Torino (Italy).
 
 In February 2020, I joined the LASP group at UCL as a PhD student.
 During my PhD, I worked on developing graph-based machine learning approaches to model irregular data, such as point clouds or radar data.
