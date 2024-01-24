@@ -30,6 +30,26 @@ permalink: /stuff/
 </div>
 </div>
 
+<div class="row">
+
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>Point Cloud Motion Forecasting via Graph‑based Machine Learning</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/GNN_box2.png" class="img-responsive" width="33%" style="float: left" />
+  <p>We developed a technique for feature disentanglement  and feature visualization</p>
+  <p><em> P.Gomes, S.Rossi, L.Toni</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
+ </div>
+</div>
+
+
+</div>
+</div>
+
+
 
 <p> &nbsp; </p>
 
