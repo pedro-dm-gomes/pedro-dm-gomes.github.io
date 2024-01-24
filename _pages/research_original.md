@@ -171,3 +171,25 @@ Our methods create a 'pseudo-video' sequence from the image using a novel *Quadr
 </div>
 </div>
 </div>
+
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
+<h4> Eimeria Vaccine Development and Protein Modelling London, UK </h4>
+
+<p> 
+Parasite-host dynamics can be modeled using graph-representations.
+</p>
+
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/emira_website.png" width="100%"/>
+</center>
+
+<ul>
+  <li>I used graph representations of molecules (protein structures) to learn  embeddings, which can be used quantify the structural difference between different molecules.</li> 
+</ul>
+</div>
+</div>
+</div>
+
